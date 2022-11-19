@@ -1,4 +1,4 @@
-#include "../OOPWinAPI.h"
+#include "OOPWinAPi/OOPWinAPI.h"
 #include <thread>
 #include <algorithm>
 #include <cmath>
